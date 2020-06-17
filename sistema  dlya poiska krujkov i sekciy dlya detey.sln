@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sistema  dlya poiska krujkov i sekciy dlya detey", "sistema  dlya poiska krujkov i sekciy dlya detey\sistema  dlya poiska krujkov i sekciy dlya detey.vcxproj", "{4523B3BA-AE3C-457E-8F4A-FC629D3B9FE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4523B3BA-AE3C-457E-8F4A-FC629D3B9FE4}.Debug|x64.ActiveCfg = Debug|x64
+		{4523B3BA-AE3C-457E-8F4A-FC629D3B9FE4}.Debug|x64.Build.0 = Debug|x64
+		{4523B3BA-AE3C-457E-8F4A-FC629D3B9FE4}.Debug|x86.ActiveCfg = Debug|Win32
+		{4523B3BA-AE3C-457E-8F4A-FC629D3B9FE4}.Debug|x86.Build.0 = Debug|Win32
+		{4523B3BA-AE3C-457E-8F4A-FC629D3B9FE4}.Release|x64.ActiveCfg = Release|x64
+		{4523B3BA-AE3C-457E-8F4A-FC629D3B9FE4}.Release|x64.Build.0 = Release|x64
+		{4523B3BA-AE3C-457E-8F4A-FC629D3B9FE4}.Release|x86.ActiveCfg = Release|Win32
+		{4523B3BA-AE3C-457E-8F4A-FC629D3B9FE4}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1EAE6D8-7D60-41B1-BB79-2910F89B683A}
+	EndGlobalSection
+EndGlobal
